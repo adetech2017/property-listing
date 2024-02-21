@@ -120,17 +120,18 @@ const CustomModal = ({ showModal, handleClose }) => {
                         <Form.Control name="postcode" id="postcode" type="text" placeholder="Postal code" />
                     </Form.Group>
 
-                    
-                    <Button type="submit" disabled={loading} variant="primary" className="custom-submit-button">
-                        {loading ? (
-                            <>
-                                <Spinner animation="border" size="sm" className="me-2" />
-                                Submitting...
-                            </>
-                        ) : (
-                            'Save Changes'
-                        )}
-                    </Button>
+                    <div className="d-grid gap-2">
+                        <Button type="submit" disabled={loading} variant="secondary" className="custom-submit-button" size="lg">
+                            {loading ? (
+                                <>
+                                    <Spinner animation="border" size="sm" className="me-2" />
+                                    Submitting...
+                                </>
+                            ) : (
+                                'Submit'
+                            )}
+                        </Button>
+                    </div>
                 </Form>
             </Modal.Body>
         </Modal>
