@@ -30,7 +30,7 @@ const Blog = () => {
                             Once you accept our offer, two things will happen:
                             <ol>
                                 <li style={{ margin: '10px 0' }}>1). We’ll appoint an independent solicitor who specializes in cash fast sales to act for you.</li>
-                                <li>2). We’ll organize for qualified surveyors to take a look at your property – at our own cost. We will share their feedback with you, and complete the sale quickly.</li>
+                                <li>2). We’ll organize for qualified RICS surveyors to value your property – at own cost. We will share their feedback with you, and complete the sale quickly, subject to satisfiy valuation.</li>
                             </ol>
                         </p>
                     </div>

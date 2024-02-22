@@ -28,44 +28,46 @@ const About = () => {
                         <h2 className="h2 section-title">What We Can Help You Achieve!.</h2>
 
                         <p className="about-text">
-                            Unlock the potential of your property sale with our expert assistance. We specialize in maximizing your selling experience, 
-                            offering personalized solutions that ensure a seamless and profitable transaction.
+                            Unlock the potential of your property sale with our expert assistance. We specialise in maximising your selling experience, 
+                            offering personalised solutions that ensure a seamless and profitable transaction.
                         </p>
 
                         <ul className="about-list">
 
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Stop Repossession</p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#579BB1', fontSize: '20px' }}>
+                                    Stop Repossession
+                                </h3>
                             </li>
 
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Relocation</p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#D71313', fontSize: '20px' }}>Relocation</h3>
                             </li>
 
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Broken Chain</p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#ECB159', fontSize: '20px' }}>Broken Chain</h3>
                             </li>
 
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Probate</p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#125B50', fontSize: '20px' }}>Probate</h3>
                             </li>
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Financial Difficulties </p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#0C359E', fontSize: '20px' }}>Financial Difficulties </h3>
                             </li>
                             <li className="about-item">
                                 <ion-icon name='checkmark-circle'></ion-icon>
-                                <p className="about-item-text">Divorce</p>
+                                <h3 className="about-item-text" style={{ textTransform: 'uppercase', color: '#FF7800', fontSize: '20px' }}>Divorce</h3>
                             </li>
 
                         </ul>
 
                         <p className="callout">
-                            Trust us to navigate the complexities, strategically market your property, and secure a swift, top-dollar sale. Your selling journey begins here, where your goals become our mission.
+                            What ever circumstances, we have tailored solution to help you move on with your life.
                         </p>
 
                         <Button as="a" variant="danger" onClick={handleShow}>

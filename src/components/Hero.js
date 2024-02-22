@@ -20,11 +20,11 @@ const Hero = () => {
                             <ion-icon name="home"></ion-icon>
                             <span>Real Estate Agency</span>
                         </p> */}
-                        <h2 className="h1 hero-title">Need to Sell Your House Fast</h2>
+                        <h2 className="h1 hero-title">Are you fed up with estate agent?</h2>
 
-                        <p className="hero-text">
-                            We Buy Houses Fast
-                        </p>
+                        <h3 className="h1 hero-titlet">
+                            We Buy Houses Fast!
+                        </h3>
                         
                         <Button as="a" className="btn cta-btn btn-danger" onClick={handleShow}>
                             Get Offer

@@ -13,7 +13,7 @@ const Footer = () => {
 
                         <h4 style={{ margin: '10px 0' }}>Q: How fast can my house be purchased?</h4>
                         <p>
-                            Subject to a satisfactory valuation, we will aim to complete within four weeks. We have a highly experienced team that works rapidly, and we have investors who are ready to buy your house immediately.
+                            Subject to a satisfactory valuation, we will aim to complete between four to six weeks. We have a highly experienced team that works rapidly, and we have investors who are ready to buy your house immediately.
                         </p>
 
                         <h4 style={{ margin: '10px 0' }}>Q: Will I get a good price for my property?</h4>
