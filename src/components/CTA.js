@@ -1,15 +1,15 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
-import { useState } from 'react';
-import CustomModal from './CustomModal';
+//import Button from 'react-bootstrap/Button';
+//import { useState } from 'react';
+//import CustomModal from './CustomModal';
 
 
 
 const CTA = () => {
-    const [showModal, setShowModal] = useState(false);
+    //const [showModal, setShowModal] = useState(false);
 
-    const handleClose = () => setShowModal(false);
-    const handleShow = () => setShowModal(true);
+    // const handleClose = () => setShowModal(false);
+    // const handleShow = () => setShowModal(true);
 
     return (
         <>
@@ -37,7 +37,7 @@ const CTA = () => {
                 </div>
             </section>
             {/* Use CustomModal component */}
-            <CustomModal showModal={showModal} handleClose={handleClose} />
+            {/* <CustomModal showModal={showModal} handleClose={handleClose} /> */}
         </>
     );
 }
