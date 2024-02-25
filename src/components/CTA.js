@@ -23,11 +23,16 @@ const CTA = () => {
                             <p className="card-text">We can turn your dream of selling your property into reality.</p>
                         </div>
 
-                        <button className="btn cta-btn" onClick={handleShow}>
+                        <figure className="about-banner">
+                        <img src="./assets/images/Home-For-Sale.jpeg" alt="House interior" />
+                        
+                        </figure>
+
+                        {/* <button className="btn cta-btn" onClick={handleShow}>
                             <span>Sell Properties</span>
 
                             <ion-icon name="arrow-forward-outline"></ion-icon>
-                        </button>
+                        </button> */}
                     </div>
                 </div>
             </section>

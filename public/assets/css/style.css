@@ -1446,7 +1446,7 @@ button, a { transition: var(--transition); }
    * SERVICE
    */
 
-  .service-list > li { width: calc(33.33% - 20px); }
+  .service-list > li { width: calc(43.33% - 20px); }
 
 
 
@@ -1682,8 +1682,21 @@ button, a { transition: var(--transition); }
   font-weight: bold;
 }
 
+.red-icon {
+  color: red;
+}
 
+.icon-large {
+  font-size: 24px;
+}
 
+.green-icon {
+  color: green;
+}
+
+.icon-large {
+  font-size: 24px;
+}
 
 
 
