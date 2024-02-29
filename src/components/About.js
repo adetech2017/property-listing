@@ -67,7 +67,7 @@ const About = () => {
                         </ul>
 
                         <p className="callout">
-                            What ever circumstances, we have tailored solution to help you move on with your life.
+                            What ever circumstances, we have tailored solutions to help you move on with your life.
                         </p>
 
                         <Button as="a" variant="danger" onClick={handleShow}>

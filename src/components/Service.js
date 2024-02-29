@@ -35,11 +35,15 @@ const Service = () => {
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                                 <li className="about-item">
-                                    Deal with stock in chains
+                                    Stock in chains
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                                 <li className="about-item"> 
                                     No privacy with boards and listings
+                                    <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
+                                </li>
+                                <li className="about-item"> 
+                                    No Tailor services
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                             </ul>
