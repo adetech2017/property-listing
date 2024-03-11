@@ -39,7 +39,7 @@ const Footer = () => {
                 <div className="container">
                     <p className="copyright">
                         <p>Contact Us</p>
-                        <p>Call us: 0736 825 8439</p>
+                        <p>Call us: 0736 825 8439, 0747 809 8498</p>
                         <p>Email us: info@sagestones.com </p>
                         &copy; 2024 Copyright. All Rights Reserved
                     </p>
