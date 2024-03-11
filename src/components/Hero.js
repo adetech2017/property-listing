@@ -20,7 +20,7 @@ const Hero = () => {
                             <ion-icon name="home"></ion-icon>
                             <span>Real Estate Agency</span>
                         </p> */}
-                        <h2 className="h1 hero-title">Are you fed up with estate Agent?</h2>
+                        <h2 className="h1 hero-title">Are you fed up with Estate Agent?</h2>
 
                         <h3 className="h1 hero-titlet">
                             We Buy Houses Fast!

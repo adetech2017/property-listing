@@ -9,7 +9,7 @@ const Service = () => {
 
                 <h2 className="h2 section-title">SAGESTONES vs Estate Agents</h2>
                 <p className="text-center" style={{ marginTop: '0' }}>
-                    Discover why choosing us means a FASTER, more EFFICIENT, and ULTIMATELY more personalised selling experience. We in SAGESTONES have innovative strategies, that redefines the selling process to maximise your property's potential. Make an informed choice for a seamless and rewarding sale with SAGESTONES.
+                    Discover why choosing us means a FASTER, more EFFICIENT, and ULTIMATELY more personalised selling experience. We as SAGESTONES have innovative strategies, that redefines the selling process to maximise your property's potential. Make an informed choice for a seamless and rewarding sale with SAGESTONES.
                 </p>
 
 
@@ -35,7 +35,7 @@ const Service = () => {
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                                 <li className="about-item">
-                                    Stock in chains
+                                    Stuck in chains
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                                 <li className="about-item"> 
@@ -43,7 +43,7 @@ const Service = () => {
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                                 <li className="about-item"> 
-                                    No Tailor services
+                                    No Tailored services
                                     <ion-icon name='close-circle' class='red-icon icon-large'></ion-icon>
                                 </li>
                             </ul>
@@ -76,11 +76,11 @@ const Service = () => {
                                 </li>
                                 <li className="about-item">
                                     <ion-icon name='checkmark-circle' class='green-icon icon-large'></ion-icon>
-                                    No renovations
+                                    No renovations required
                                 </li>
                                 <li className="about-item">
                                     <ion-icon name='checkmark-circle' class='green-icon icon-large'></ion-icon>
-                                    Fully confidential, and no Estate agent
+                                    Fully confidential, and no Estate Agents fees
                                 </li>
                             </ul>
                         </div>

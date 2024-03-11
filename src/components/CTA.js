@@ -21,18 +21,20 @@ const CTA = () => {
                             <h2 className="h2 card-title"> ⁠Don’t let your property hold you down</h2>
 
                             <p className="card-text">⁠⁠Looking to travel abroad and spend time with your family.</p>
+
+                            <h3 className="card-text">£500 cash for referrals that we successfully complete on.</h3>
+
+                            <button className="btn cta-btn" onClick={handleShow}>
+                                <span>Get offer Now</span>
+
+                                <ion-icon name="arrow-forward-outline"></ion-icon>
+                            </button>
                         </div>
 
-                        {/* <figure className="about-banner">
-                            <img src="./assets/images/Home-For-Sale.jpeg" alt="House interior" />
+                        <figure className="about-banner">
+                            <img src="./assets/images/cta-image.png" alt="House interior" />
                         
-                        </figure> */}
-
-                        <button className="btn cta-btn" onClick={handleShow}>
-                            <span>Sell Properties</span>
-
-                            <ion-icon name="arrow-forward-outline"></ion-icon>
-                        </button>
+                        </figure>
                     </div>
                 </div>
             </section>
